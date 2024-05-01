@@ -1,17 +1,16 @@
-# AlekyaBasike_NikhithKrishna_NLP
-NewsNER: Named Entity Recognition In News Articles Using Natural Language Processing
+## NewsNER: Named Entity Recognition In News Articles Using Natural Language Processing
 
-**Introduction:**
+## Introduction:
 
 NewsNER is a specialized Named Entity Recognition (NER) system developed to enhance information extraction from news articles using advanced Natural Language Processing (NLP) techniques. This project utilizes state-of-the-art algorithms to achieve high precision, recall, and F1-scores in identifying and classifying named entities within diverse news content.
 
-**Project Goals:**
+## Project Goals:
 
 - **Accuracy**: Develop a robust NER model that identifies and classifies entities accurately.
 - **Innovation**: Explore cutting-edge NLP algorithms and techniques to improve performance.
 - **Applicability**: Evaluate the model across various news articles to ensure its effectiveness in real-world scenarios.
 
-**Installation:**
+## Installation:
 
 To set up NewsNER for use or development, follow these steps:
 
@@ -24,7 +23,7 @@ To set up NewsNER for use or development, follow these steps:
    pip install -r requirements.txt
 
 
-**Datasets:**
+## Datasets:
 
 This project uses two main datasets from Kaggle:
 
@@ -33,14 +32,14 @@ This project uses two main datasets from Kaggle:
 
 Both datasets are integral for training and testing the NER models developed in this project.
 
-**Models:**
+## Models:
 
 NewsNER incorporates two primary models:
 
 **LSTM (Long Short-Term Memory)**: Utilizes multiple LSTM layers to capture long-range dependencies within text data effectively.
 **SpaCy NER Model**: Employs a pre-trained model for quick and efficient named entity recognition.
 
-**Usage:**
+## Usage:
 
 To run NewsNER on your data, use the following command:
 
