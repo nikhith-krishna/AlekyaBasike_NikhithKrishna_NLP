@@ -50,7 +50,7 @@ This script will load the trained model and print the named entity recognition r
 
 
 
-## Contact
+## Contact:
 
 Your Names – Alekya Basike, Nikhith Krishna Vinduru
 
